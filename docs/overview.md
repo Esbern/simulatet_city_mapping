@@ -40,4 +40,5 @@ Workshop docs:
 
 - `docs/setup.md` — environment setup + optional extras
 - `docs/demos.md` — script demos (same ideas as the notebook)
+- `docs/maplibre_anymap.md` — mapping in notebooks (anymap-ts / MapLibre)
 - `docs/exercises.md` — student exercises (build the simulation)
